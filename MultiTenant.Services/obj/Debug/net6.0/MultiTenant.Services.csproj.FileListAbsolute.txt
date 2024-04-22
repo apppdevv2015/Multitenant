@@ -1,0 +1,15 @@
+F:\Code\Dan\MultiTenant.Services\bin\Debug\net6.0\MultiTenant.Services.deps.json
+F:\Code\Dan\MultiTenant.Services\bin\Debug\net6.0\MultiTenant.Services.dll
+F:\Code\Dan\MultiTenant.Services\bin\Debug\net6.0\MultiTenant.Services.pdb
+F:\Code\Dan\MultiTenant.Services\bin\Debug\net6.0\MultiTenant.Data.dll
+F:\Code\Dan\MultiTenant.Services\bin\Debug\net6.0\MultiTenant.Data.pdb
+F:\Code\Dan\MultiTenant.Services\obj\Debug\net6.0\MultiTenant.Services.csproj.AssemblyReference.cache
+F:\Code\Dan\MultiTenant.Services\obj\Debug\net6.0\MultiTenant.Services.GeneratedMSBuildEditorConfig.editorconfig
+F:\Code\Dan\MultiTenant.Services\obj\Debug\net6.0\MultiTenant.Services.AssemblyInfoInputs.cache
+F:\Code\Dan\MultiTenant.Services\obj\Debug\net6.0\MultiTenant.Services.AssemblyInfo.cs
+F:\Code\Dan\MultiTenant.Services\obj\Debug\net6.0\MultiTenant.Services.csproj.CoreCompileInputs.cache
+F:\Code\Dan\MultiTenant.Services\obj\Debug\net6.0\MultiTenant.Services.csproj.CopyComplete
+F:\Code\Dan\MultiTenant.Services\obj\Debug\net6.0\MultiTenant.Services.dll
+F:\Code\Dan\MultiTenant.Services\obj\Debug\net6.0\refint\MultiTenant.Services.dll
+F:\Code\Dan\MultiTenant.Services\obj\Debug\net6.0\MultiTenant.Services.pdb
+F:\Code\Dan\MultiTenant.Services\obj\Debug\net6.0\ref\MultiTenant.Services.dll

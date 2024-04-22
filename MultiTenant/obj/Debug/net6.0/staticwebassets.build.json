@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "rMyflM+0GuPP94bxnwtvPvzBZmA1rlwbcB8tIwvo7Z4=",
+  "Source": "MultiTenant",
+  "BasePath": "_content/MultiTenant",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MultiTenant\\wwwroot",
+      "Source": "MultiTenant",
+      "ContentRoot": "F:\\Code\\Dan\\MultiTenant\\wwwroot\\",
+      "BasePath": "_content/MultiTenant",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

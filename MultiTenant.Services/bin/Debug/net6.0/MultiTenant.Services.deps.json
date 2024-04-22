@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MultiTenant.Services/1.0.0": {
+        "dependencies": {
+          "MultiTenant.Data": "1.0.0"
+        },
+        "runtime": {
+          "MultiTenant.Services.dll": {}
+        }
+      },
+      "MultiTenant.Data/1.0.0": {
+        "runtime": {
+          "MultiTenant.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MultiTenant.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MultiTenant.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
