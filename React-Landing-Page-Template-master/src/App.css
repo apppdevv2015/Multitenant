@@ -1,0 +1,33 @@
+@media screen and (max-width: 400px) {
+  #features {
+    padding: 20px;
+    width: 111%;
+  }
+  #about,
+  #services,
+  #testimonials,
+  #team,
+  #contact,
+  #footer {
+    width: 111%;
+  }
+
+  #portfolio {
+    width: 110%;
+  }
+}
+
+
+
+/* App.css */
+.light {
+  /* Light theme styles */
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.dark {
+  /* Dark theme styles */
+  background-color: #121212;
+  color: #ffffff;
+}
