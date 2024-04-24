@@ -1,0 +1,141 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\erdee\\Documents\\GitHub\\Multitenant\\Multitenant\\Dan\\MultiTenant.Services\\MultiTenant.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\erdee\\Documents\\GitHub\\Multitenant\\Multitenant\\Dan\\MultiTenant.Data\\MultiTenant.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\erdee\\Documents\\GitHub\\Multitenant\\Multitenant\\Dan\\MultiTenant.Data\\MultiTenant.Data.csproj",
+        "projectName": "MultiTenant.Data",
+        "projectPath": "C:\\Users\\erdee\\Documents\\GitHub\\Multitenant\\Multitenant\\Dan\\MultiTenant.Data\\MultiTenant.Data.csproj",
+        "packagesPath": "C:\\Users\\erdee\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\erdee\\Documents\\GitHub\\Multitenant\\Multitenant\\Dan\\MultiTenant.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\erdee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\erdee\\Documents\\GitHub\\Multitenant\\Multitenant\\Dan\\MultiTenant.Services\\MultiTenant.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\erdee\\Documents\\GitHub\\Multitenant\\Multitenant\\Dan\\MultiTenant.Services\\MultiTenant.Services.csproj",
+        "projectName": "MultiTenant.Services",
+        "projectPath": "C:\\Users\\erdee\\Documents\\GitHub\\Multitenant\\Multitenant\\Dan\\MultiTenant.Services\\MultiTenant.Services.csproj",
+        "packagesPath": "C:\\Users\\erdee\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\erdee\\Documents\\GitHub\\Multitenant\\Multitenant\\Dan\\MultiTenant.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\erdee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\erdee\\Documents\\GitHub\\Multitenant\\Multitenant\\Dan\\MultiTenant.Data\\MultiTenant.Data.csproj": {
+                "projectPath": "C:\\Users\\erdee\\Documents\\GitHub\\Multitenant\\Multitenant\\Dan\\MultiTenant.Data\\MultiTenant.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Hosting": {
+              "target": "Package",
+              "version": "[2.2.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
